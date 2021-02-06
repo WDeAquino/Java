@@ -1,4 +1,4 @@
-public class P3{
+public class Ciclo_Else-if{
 	public static void main(String args[]){
 		int operacion=0;
 		int n1=4;
