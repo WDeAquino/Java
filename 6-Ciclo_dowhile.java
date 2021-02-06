@@ -1,4 +1,4 @@
-public class P7{
+public class Ciclo_dowhile{
 	public static void main(String args[]){
 		int = 1000;
 		do{
