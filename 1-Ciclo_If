@@ -1,4 +1,4 @@
-public class P2{
+public class Ciclo_If{
 	public static void main(String args[]){
 		int matematicas=5;
 		int biologia=9;
